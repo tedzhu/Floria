@@ -1,5 +1,5 @@
-Information about Floria could be found on
+More information could be found on
 http://www.tedzhu.me/blog/floria/
 
-Fore more info about the project
+For art, audio assets etc. of the project
 mailto: zhu.ted@gmail.com
